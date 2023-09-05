@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm </h1>Jahnavi saxena
+<h1 align="center">Hi 👋, I'm Jahnavi Saxena </h1>
 <h3 align="center">I like swimming and reading books</h3>
 
 - 🔭 I’m in my first year in a computer science course at UPES, Dehradun.
